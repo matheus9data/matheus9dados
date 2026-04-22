@@ -16,8 +16,7 @@ Seja limpando bases corrompidas no R, estruturando fluxos de automação no n8n 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Ferramentas, Automação & PKM:**
-![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+**Ferramentas:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidiana](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
@@ -25,7 +24,7 @@ Seja limpando bases corrompidas no R, estruturando fluxos de automação no n8n 
 
 ### 🚀 Projetos em Destaque
 
-#### 🦞 [Pipeline de Análise e Distribuição: Panulirus guttatus](link-do-seu-repo-aqui)
+#### 🦞 [Pipeline de Análise e Distribuição: Panulirus spp. ](link-do-seu-repo-aqui)
 * **Pilha:** `R` `ggplot2` `terra` `sf`
 * **Ó Problema:** Dados biológicos desentruturados precisos ser limites para mapeamento geográfico exato.
 * **A Solução:** Pipeline em R que consome os dados brutos, perceba o *disputa de dados* peso e pota mapas automatizados de distribuição espacial.
