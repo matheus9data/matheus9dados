@@ -19,10 +19,10 @@ Seja limpando bases corrompidas no R, estruturando fluxos de automação no n8n 
 **Ferramentas:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidiana](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
+Forte cultura de documentação ágil e Gestão de Conhecimento (PKM) utilizando Markdown e Obsidian
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
 #### 🦞 [Pipeline de Análise e Distribuição: Panulirus spp. ](link-do-seu-repo-aqui)
 * **Pilha:** `R` `ggplot2` `terra` `sf`
